@@ -1,4 +1,4 @@
-<h1> Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="src/one-ring.png"></h1>
+<h1> Hello there, fellow coders! <img src="src/one-ring.png"></h1>
 
 <div align="center" width="50">
   <img src="src/sauron-1.gif" alt="Welcome!" width="500"/>
