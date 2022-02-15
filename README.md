@@ -33,7 +33,7 @@ Landing pages
 2. [Binary tree](https://github.com/agustinlozano/binary-tree "Binary tree") ✔️
 3. [Assembly intel x86 + C driver](https://github.com/agustinlozano/driver "Assembly intel x86 + C driver") ✔️
 4. [Doubly linked list](https://github.com/agustinlozano/doubly-linked-list "Doubly linked list") ✔️
-5. [Assembly MIPS R200 app](https://github.com/agustinlozano/assembly-app "Assembly MIPS R200 app") ✔️
+5. [Assembly MIPS R2000 app](https://github.com/agustinlozano/assembly-app "Assembly MIPS R2000 app") ✔️
 6. [Circular queue](https://github.com/agustinlozano/circular-queue "Circular queue") ✔️
 7. [Circular doubly linked list](https://github.com/agustinlozano/circular-doubly-linked-list "Circular doubly linked list") ✔️
 8. [Euclidean algorithm](https://github.com/agustinlozano/euclidean-algorithm "Euclidean algorithm") ✔️
