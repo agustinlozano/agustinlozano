@@ -7,9 +7,9 @@ I'm learning about software development and engineering, focusing on best develo
 ### Sumary
 I hope this summary help you to understand my GitHub better!
 
-⚙️ Still working
-✔️ Done
-🛑 Stopped/No activity for now
+ ⚙️ Still working
+| ✔️ Done
+| 🛑 Stopped/No activity for now
 
 - #### Web development work
 Frontend proyects:
