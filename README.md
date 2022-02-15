@@ -1,6 +1,6 @@
 <h1> Hello there, fellow coders! <img src="src/one-ring.png"></h1>
 
-I'm Agustin, **Software Engineer Jr**.
+I'm Agustin, **Software Engineer** Jr.
 
 I'm learning about software development and engineering, focusing on best development practices, and interested in cutting-edge technologies. My goal is to be able to work in innovative technological environments as well as to adopt the appropriate values and principles according to the company culture.
 
@@ -43,7 +43,7 @@ Landing pages
 2. [Assembly practice](https://github.com/agustinlozano/assembly-practice "Assembly-practice")
 3. [C algorithms](https://github.com/agustinlozano/assembly-practice "C algorithms")
 4. [js-xmas-edition](https://github.com/agustinlozano/js-xmas-edition "js-xmas-edition")
-5. [exchangerates](https://github.com/agustinlozano/exchangerates "exchangerates")
+5. [exchange rates](https://github.com/agustinlozano/exchangerates "exchange rates")
 
 ### Contact me
 
