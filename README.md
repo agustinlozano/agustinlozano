@@ -12,7 +12,7 @@ I hope this helps you to surf my GitHub better!
 | 🛑 Stopped/No activity for now
 
 - #### Web development work
-Frontend projects:
+Frontend projects
 1. [Phonebook app](https://github.com/agustinlozano/phonebook "Phonebook app") ⚙️
 2. [Notes app](https://github.com/agustinlozano/notes-app "Notes app") ⚙️
 3. [Small bootstrap project](https://github.com/agustinlozano/front-end-projec "Small bootstrap project")
@@ -38,7 +38,7 @@ Landing pages
 7. [Circular doubly linked list](https://github.com/agustinlozano/circular-doubly-linked-list "Circular doubly linked list") ✔️
 8. [Euclidean algorithm](https://github.com/agustinlozano/euclidean-algorithm "Euclidean algorithm") ✔️
 
-- #### practices
+- #### Practices
 1. [Procedural programming](https://github.com/agustinlozano/assembly-practice "Procedural programming")
 2. [Assembly practice](https://github.com/agustinlozano/assembly-practice "Assembly-practice")
 3. [C algorithms](https://github.com/agustinlozano/assembly-practice "C algorithms")
