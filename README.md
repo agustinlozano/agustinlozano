@@ -24,7 +24,7 @@ Backend projects
 2. [Note app backend](https://github.com/agustinlozano/note-app-backend "Note app backend") ⚙️
 3. [Blog list backend](https://github.com/agustinlozano/blog-list-backend "Blog list backend") ⚙️
 
-Landig pages
+Landing pages
 1. [Landing page](https://github.com/agustinlozano/landing-page-1 "Landing page") ✔️
 2. [Landing page](https://github.com/agustinlozano/landing-page-2 "Landing page") ✔️
 
