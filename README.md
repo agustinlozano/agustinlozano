@@ -15,9 +15,10 @@ I hope this helps you to surf my GitHub better!
 Frontend projects
 1. [Phonebook app](https://github.com/agustinlozano/phonebook "Phonebook app") ⚙️
 2. [Notes app](https://github.com/agustinlozano/notes-app "Notes app") ⚙️
-3. [Small bootstrap project](https://github.com/agustinlozano/front-end-projec "Small bootstrap project")
-4. [Simon says](https://github.com/agustinlozano/simon-dice "Simon says") 🛑
-5. [Memotest](https://github.com/agustinlozano/memotest "Memotest") 🛑
+3. [Wizard's blogs](https://github.com/agustinlozano/wizards-blog "Wizard's blogs") ⚙️
+4. [Small bootstrap project](https://github.com/agustinlozano/front-end-projec "Small bootstrap project")
+5. [Simon says](https://github.com/agustinlozano/simon-dice "Simon says") 🛑
+6. [Memotest](https://github.com/agustinlozano/memotest "Memotest") 🛑
 
 Backend projects
 1. [Phonebook backend](https://github.com/agustinlozano/phonebook-backend "Phonebook backend") ⚙️
@@ -45,6 +46,7 @@ Landing pages
 4. [Gatsby Site](https://github.com/agustinlozano/first-gatsby-site "Gatsby Site")
 5. [js-xmas-edition](https://github.com/agustinlozano/js-xmas-edition "js-xmas-edition")
 6. [exchange rates](https://github.com/agustinlozano/exchangerates "exchange rates")
+7. [unicafe redux](https://github.com/agustinlozano/unicafe-redux "unicafe redux")
 
 ### Contact me
 
