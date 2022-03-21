@@ -1,8 +1,10 @@
 <h1> Hello there, fellow coders! <img src="src/one-ring.png"></h1>
 
-I'm Agustin, **Software Engineer** Jr.
+I'm Agustin, **Software Engineer Trainee** & **FullStack Dev**. 💻
 
 I'm learning about software development and engineering, focusing on best development practices, and interested in cutting-edge technologies. My goal is to be able to work in innovative technological environments as well as to adopt the appropriate values and principles according to the company culture.
+
+---
 
 ### Summary
 I hope this helps you to surf my GitHub better!
@@ -47,6 +49,8 @@ Landing pages
 5. [js-xmas-edition](https://github.com/agustinlozano/js-xmas-edition "js-xmas-edition")
 6. [exchange rates](https://github.com/agustinlozano/exchangerates "exchange rates")
 7. [unicafe redux](https://github.com/agustinlozano/unicafe-redux "unicafe redux")
+
+---
 
 ### Contact me
 
