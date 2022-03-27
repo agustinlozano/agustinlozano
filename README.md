@@ -43,12 +43,15 @@ Landing pages
 
 - #### Practices
 1. [Procedural programming](https://github.com/agustinlozano/assembly-practice "Procedural programming")
-2. [Assembly practice](https://github.com/agustinlozano/assembly-practice "Assembly-practice")
+2. [Assembly practices](https://github.com/agustinlozano/assembly-practice "Assembly-practice")
 3. [C algorithms](https://github.com/agustinlozano/assembly-practice "C algorithms")
 4. [Gatsby Site](https://github.com/agustinlozano/first-gatsby-site "Gatsby Site")
 5. [js-xmas-edition](https://github.com/agustinlozano/js-xmas-edition "js-xmas-edition")
 6. [exchange rates](https://github.com/agustinlozano/exchangerates "exchange rates")
 7. [unicafe redux](https://github.com/agustinlozano/unicafe-redux "unicafe redux")
+8. [anecdoties redux](https://github.com/agustinlozano/redux-anecdoties "anecdoties redux")
+9. [notes redux](https://github.com/agustinlozano/redux-notes "notes redux")
+10. [Haskell practices](https://github.com/agustinlozano/haskell "Haskell practices")
 
 ---
 
