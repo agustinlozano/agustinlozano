@@ -2,7 +2,9 @@
 
 I'm Agustin, **Software Engineer Trainee** & **FullStack Dev**. 💻
 
-I'm learning about software development and engineering, focusing on best development practices, and interested in cutting-edge technologies. My goal is to be able to work in innovative technological environments as well as to adopt the appropriate values and principles according to the company culture.
+  I'm studying the systems field at the National University of Rosario; the academic work is primarily concerned with software systems and computing. Also, I became interested in web development since I believe it's a solid environment where I can improve my professional career.
+
+  My goal is to work in innovative technological environments which operate cutting-edge technology projects as well as provide excellent values and principles appropriate to the company culture.
 
 ---
 
