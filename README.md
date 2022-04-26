@@ -53,8 +53,8 @@ Landing pages
 7. [unicafe redux](https://github.com/agustinlozano/unicafe-redux "unicafe redux")
 8. [anecdoties redux](https://github.com/agustinlozano/redux-anecdoties "anecdoties redux")
 9. [notes redux](https://github.com/agustinlozano/redux-notes "notes redux")
-10. [Haskell practices](https://github.com/agustinlozano/haskell "Haskell practices")
-11. [Typescript API](https://github.com/agustinlozano/typescript-API "Typescript API")
+10. [Haskell practices](https://github.com/agustinlozano/haskell "Haskell practices") ⚙️
+11. [Typescript API](https://github.com/agustinlozano/typescript-API "Typescript API") ⚙️
 
 ---
 
