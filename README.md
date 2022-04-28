@@ -28,6 +28,7 @@ Backend projects
 1. [Phonebook backend](https://github.com/agustinlozano/phonebook-backend "Phonebook backend") ⚙️
 2. [Note app backend](https://github.com/agustinlozano/note-app-backend "Note app backend") ⚙️
 3. [Blog list backend](https://github.com/agustinlozano/blog-list-backend "Blog list backend") ⚙️
+4. [Typescript API](https://github.com/agustinlozano/typescript-API "Typescript API") ✔️
 
 Landing pages
 1. [Landing page](https://github.com/agustinlozano/landing-page-1 "Landing page") ✔️
@@ -54,7 +55,6 @@ Landing pages
 8. [anecdoties redux](https://github.com/agustinlozano/redux-anecdoties "anecdoties redux")
 9. [notes redux](https://github.com/agustinlozano/redux-notes "notes redux")
 10. [Haskell practices](https://github.com/agustinlozano/haskell "Haskell practices") ⚙️
-11. [Typescript API](https://github.com/agustinlozano/typescript-API "Typescript API") ✔️
 
 ---
 
