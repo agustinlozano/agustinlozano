@@ -2,7 +2,7 @@
 
 I'm Agustin, **Software Engineer Trainee** & **FullStack Dev**. 💻
 
-&nbsp;&nbsp;I'm studying the systems field at the National University of Rosario; the academic work is primarily concerned with software systems and computing. Also, I became interested in web development since I believe it's a good environment where I can improve my professional career.
+&nbsp;&nbsp;I'm studying at the National University of Rosario and learning independently. The academic work is primarily concerned with software systems and computing. Also, I became interested in web development since I believe it's a good environment where I can improve my professional career.
 
 &nbsp;&nbsp;My goal is to work in innovative technological environments that operate cutting-edge technology projects as well as provide excellent values and principles appropriate to the company culture.
 
