@@ -1,6 +1,6 @@
 <h1> Hello there, fellow coders! <img src="src/one-ring.png"></h1>
 
-I'm Agustin, **Software Engineer Trainee** & **FullStack Dev**. 💻
+&nbsp; - I'm Agustin, **Software Engineer Trainee** & **FullStack Dev**. 💻
 
 &nbsp;&nbsp;I'm studying the systems field at the National University of Rosario and learning independently. The academic work is primarily concerned with software systems and computing. Also, I became interested in web development since I believe it's a good environment where I can improve my professional career.
 
