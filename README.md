@@ -41,12 +41,12 @@ Express, Jest, Supertest, MongoDB/SQL.
 
 - **Landing pages**
 
-HTML, Bootstrap.
+HTML, Bootstrap, CSS.
 1. [Landing page](https://github.com/agustinlozano/landing-page-1 "Landing page") ✔️
 2. [Landing page](https://github.com/agustinlozano/landing-page-2 "Landing page") ✔️
 
 ### Academic work
-Typescript, C/C++, data structure/functional programming in Haskell, 
+C/C++, data structure/functional programming in Haskell, 
 
 computer architecture/assembly language.
 1. [Kruskal](https://github.com/agustinlozano/kruskal "Kruskal") ✔️
