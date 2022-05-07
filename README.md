@@ -14,9 +14,10 @@ I hope this helps you to surf my GitHub better!
  ⚙️ Still working
 | ✔️ Done
 | 🛑 Stopped/No activity for now
-
-- #### Web development work
-**Frontend projects**
+<br>
+<br>
+#### Web development work
+- **Frontend projects**
 
 JavaScript, React, flux-architecture/Redux, Jest, Cypress, Testing React Library, 
 
@@ -28,7 +29,7 @@ Axios, CSS/CSS frameworks with classes, HTML.
 5. [Simon says](https://github.com/agustinlozano/simon-dice "Simon says") 🛑
 6. [Memotest](https://github.com/agustinlozano/memotest "Memotest") 🛑
 
-**Backend projects**
+- **Backend projects**
 
 Server-side applications in JavaScript, RESTfull web APIs, and automation testing.
 
@@ -38,13 +39,13 @@ Express, Jest, Supertest, MongoDB/SQL.
 3. [Blog list backend](https://github.com/agustinlozano/blog-list-backend "Blog list backend") ⚙️
 4. [Typescript API](https://github.com/agustinlozano/typescript-API "Typescript API") ✔️
 
-**Landing pages**
+- **Landing pages**
 
 HTML, Bootstrap.
 1. [Landing page](https://github.com/agustinlozano/landing-page-1 "Landing page") ✔️
 2. [Landing page](https://github.com/agustinlozano/landing-page-2 "Landing page") ✔️
 
-- #### Academic work
+#### Academic work
 Typescript, C/C++, data structure/functional programming in Haskell, 
 
 computer architecture/assembly language.
@@ -58,7 +59,7 @@ computer architecture/assembly language.
 8. [Euclidean algorithm](https://github.com/agustinlozano/euclidean-algorithm "Euclidean algorithm") ✔️
 9. [Subasta](https://github.com/agustinlozano/subasta "Subasta") ⚙️
 
-- #### Practices
+#### Practices
 1. [Procedural programming](https://github.com/agustinlozano/assembly-practice "Procedural programming")
 2. [Assembly practices](https://github.com/agustinlozano/assembly-practice "Assembly-practice")
 3. [C algorithms](https://github.com/agustinlozano/assembly-practice "C algorithms")
