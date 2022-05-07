@@ -16,7 +16,7 @@ I hope this helps you to surf my GitHub better!
 | 🛑 Stopped/No activity for now
 <br>
 <br>
-#### Web development work
+### Web development work
 - **Frontend projects**
 
 JavaScript, React, flux-architecture/Redux, Jest, Cypress, Testing React Library, 
@@ -45,7 +45,7 @@ HTML, Bootstrap.
 1. [Landing page](https://github.com/agustinlozano/landing-page-1 "Landing page") ✔️
 2. [Landing page](https://github.com/agustinlozano/landing-page-2 "Landing page") ✔️
 
-#### Academic work
+### Academic work
 Typescript, C/C++, data structure/functional programming in Haskell, 
 
 computer architecture/assembly language.
@@ -59,7 +59,7 @@ computer architecture/assembly language.
 8. [Euclidean algorithm](https://github.com/agustinlozano/euclidean-algorithm "Euclidean algorithm") ✔️
 9. [Subasta](https://github.com/agustinlozano/subasta "Subasta") ⚙️
 
-#### Practices
+### Practices
 1. [Procedural programming](https://github.com/agustinlozano/assembly-practice "Procedural programming")
 2. [Assembly practices](https://github.com/agustinlozano/assembly-practice "Assembly-practice")
 3. [C algorithms](https://github.com/agustinlozano/assembly-practice "C algorithms")
