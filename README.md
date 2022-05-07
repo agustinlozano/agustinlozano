@@ -18,7 +18,9 @@ I hope this helps you to surf my GitHub better!
 - #### Web development work
 **Frontend projects**
 
-JavaScript, React, flux-architecture/Redux, Jest, Cypress, Testing React Library, Axios, CSS/CSS frameworks with classes, HTML.
+JavaScript, React, flux-architecture/Redux, Jest, Cypress, Testing React Library, 
+
+Axios, CSS/CSS frameworks with classes, HTML.
 1. [Phonebook app](https://github.com/agustinlozano/phonebook "Phonebook app") ⚙️
 2. [Notes app](https://github.com/agustinlozano/notes-app "Notes app") ⚙️
 3. [Wizard's blogs](https://github.com/agustinlozano/wizards-blog "Wizard's blogs") ⚙️
@@ -29,6 +31,7 @@ JavaScript, React, flux-architecture/Redux, Jest, Cypress, Testing React Library
 **Backend projects**
 
 Server-side applications in JavaScript, RESTfull web APIs, and automation testing.
+
 Express, Jest, Supertest, MongoDB/SQL.
 1. [Phonebook backend](https://github.com/agustinlozano/phonebook-backend "Phonebook backend") ⚙️
 2. [Note app backend](https://github.com/agustinlozano/note-app-backend "Note app backend") ⚙️
@@ -42,7 +45,9 @@ HTML, Bootstrap.
 2. [Landing page](https://github.com/agustinlozano/landing-page-2 "Landing page") ✔️
 
 - #### Academic work
-Typescript, C/C++, data structure/functional programming in Haskell, computer architecture/assembly language.
+Typescript, C/C++, data structure/functional programming in Haskell, 
+
+computer architecture/assembly language.
 1. [Kruskal](https://github.com/agustinlozano/kruskal "Kruskal") ✔️
 2. [Binary tree](https://github.com/agustinlozano/binary-tree "Binary tree") ✔️
 3. [Assembly intel x86 + C driver](https://github.com/agustinlozano/driver "Assembly intel x86 + C driver") ✔️
