@@ -1,4 +1,4 @@
-<h1> Hello there, fellow coders! <img src="src/one-ring.png"></h1>
+<h1> Hello there, fellow coders! 👩🏼‍💻👨🏻‍💻</h1> <!-- <img src="src/one-ring.png"> -->
 
 &nbsp; - I'm Agustin, **Software Engineer Trainee** & **FullStack Dev**. 💻
 
