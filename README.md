@@ -19,9 +19,9 @@ I hope this helps you to surf my GitHub better!
 ### Web development work
 - **Frontend projects**
 
-JavaScript, React, flux-architecture/Redux, Jest, Cypress, Testing React Library, 
-
-Axios, CSS/CSS frameworks with classes, HTML.
+modern web development, responsive, and automation testing. 
+<br>
+*JavaScript, React, flux-architecture/Redux, Jest, Cypress, Testing React Library, Axios, CSS/CSS frameworks with classes, HTML.*
 1. [Phonebook app](https://github.com/agustinlozano/phonebook "Phonebook app") ⚙️
 2. [Notes app](https://github.com/agustinlozano/notes-app "Notes app") ⚙️
 3. [Wizard's blogs](https://github.com/agustinlozano/wizards-blog "Wizard's blogs") ⚙️
@@ -31,9 +31,9 @@ Axios, CSS/CSS frameworks with classes, HTML.
 
 - **Backend projects**
 
-Server-side applications in JavaScript, RESTfull web APIs, and automation testing.
-
-Express, Jest, Supertest, MongoDB/SQL.
+Server-side applications in JavaScript, RESTfull web APIs, and automation testing. 
+<br>
+*Express, Jest, Supertest, MongoDB/SQL.*
 1. [Phonebook backend](https://github.com/agustinlozano/phonebook-backend "Phonebook backend") ⚙️
 2. [Note app backend](https://github.com/agustinlozano/note-app-backend "Note app backend") ⚙️
 3. [Blog list backend](https://github.com/agustinlozano/blog-list-backend "Blog list backend") ⚙️
@@ -41,14 +41,12 @@ Express, Jest, Supertest, MongoDB/SQL.
 
 - **Landing pages**
 
-HTML, Bootstrap, CSS.
+*HTML, Bootstrap, CSS.*
 1. [Landing page](https://github.com/agustinlozano/landing-page-1 "Landing page") ✔️
 2. [Landing page](https://github.com/agustinlozano/landing-page-2 "Landing page") ✔️
 
 ### Academic work
-C/C++, data structure/functional programming in Haskell, 
-
-computer architecture/assembly language.
+*C/C++*, data structure/functional programming in *Haskell*, computer architecture/*assembly* language.
 1. [Kruskal](https://github.com/agustinlozano/kruskal "Kruskal") ✔️
 2. [Binary tree](https://github.com/agustinlozano/binary-tree "Binary tree") ✔️
 3. [Assembly intel x86 + C driver](https://github.com/agustinlozano/driver "Assembly intel x86 + C driver") ✔️
