@@ -16,7 +16,8 @@ I hope this helps you to surf my GitHub better!
 | 🛑 Stopped/No activity for now
 
 - #### Web development work
-Frontend projects
+**Frontend projects**
+
 JavaScript, React, flux-architecture/Redux, Jest, Cypress, Testing React Library, Axios, CSS/CSS frameworks with classes, HTML.
 1. [Phonebook app](https://github.com/agustinlozano/phonebook "Phonebook app") ⚙️
 2. [Notes app](https://github.com/agustinlozano/notes-app "Notes app") ⚙️
@@ -25,7 +26,8 @@ JavaScript, React, flux-architecture/Redux, Jest, Cypress, Testing React Library
 5. [Simon says](https://github.com/agustinlozano/simon-dice "Simon says") 🛑
 6. [Memotest](https://github.com/agustinlozano/memotest "Memotest") 🛑
 
-Backend projects
+**Backend projects**
+
 Server-side applications in JavaScript, RESTfull web APIs, and automation testing.
 Express, Jest, Supertest, MongoDB/SQL.
 1. [Phonebook backend](https://github.com/agustinlozano/phonebook-backend "Phonebook backend") ⚙️
@@ -33,7 +35,9 @@ Express, Jest, Supertest, MongoDB/SQL.
 3. [Blog list backend](https://github.com/agustinlozano/blog-list-backend "Blog list backend") ⚙️
 4. [Typescript API](https://github.com/agustinlozano/typescript-API "Typescript API") ✔️
 
-Landing pages
+**Landing pages**
+
+HTML, Bootstrap.
 1. [Landing page](https://github.com/agustinlozano/landing-page-1 "Landing page") ✔️
 2. [Landing page](https://github.com/agustinlozano/landing-page-2 "Landing page") ✔️
 
