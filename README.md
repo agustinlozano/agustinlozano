@@ -19,7 +19,7 @@ I hope this helps you to surf my GitHub better!
 ### Web development work
 - **Frontend projects**
 
-modern web development, responsive, and automation testing. 
+Modern web development, responsive, and automation testing. 
 <br>
 *JavaScript, React, flux-architecture/Redux, Jest, Cypress, Testing React Library, Axios, CSS/CSS frameworks with classes, HTML.*
 1. [Phonebook app](https://github.com/agustinlozano/phonebook "Phonebook app") ⚙️
