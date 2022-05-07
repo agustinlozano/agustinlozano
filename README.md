@@ -17,6 +17,7 @@ I hope this helps you to surf my GitHub better!
 
 - #### Web development work
 Frontend projects
+JavaScript, React, flux-architecture/Redux, Jest, Cypress, Testing React Library, Axios, CSS/CSS frameworks with classes, HTML.
 1. [Phonebook app](https://github.com/agustinlozano/phonebook "Phonebook app") ⚙️
 2. [Notes app](https://github.com/agustinlozano/notes-app "Notes app") ⚙️
 3. [Wizard's blogs](https://github.com/agustinlozano/wizards-blog "Wizard's blogs") ⚙️
@@ -25,6 +26,8 @@ Frontend projects
 6. [Memotest](https://github.com/agustinlozano/memotest "Memotest") 🛑
 
 Backend projects
+Server-side applications in JavaScript, RESTfull web APIs, and automation testing.
+Express, Jest, Supertest, MongoDB/SQL.
 1. [Phonebook backend](https://github.com/agustinlozano/phonebook-backend "Phonebook backend") ⚙️
 2. [Note app backend](https://github.com/agustinlozano/note-app-backend "Note app backend") ⚙️
 3. [Blog list backend](https://github.com/agustinlozano/blog-list-backend "Blog list backend") ⚙️
@@ -35,6 +38,7 @@ Landing pages
 2. [Landing page](https://github.com/agustinlozano/landing-page-2 "Landing page") ✔️
 
 - #### Academic work
+Typescript, C/C++, data structure/functional programming in Haskell, computer architecture/assembly language.
 1. [Kruskal](https://github.com/agustinlozano/kruskal "Kruskal") ✔️
 2. [Binary tree](https://github.com/agustinlozano/binary-tree "Binary tree") ✔️
 3. [Assembly intel x86 + C driver](https://github.com/agustinlozano/driver "Assembly intel x86 + C driver") ✔️
@@ -43,6 +47,7 @@ Landing pages
 6. [Circular queue](https://github.com/agustinlozano/circular-queue "Circular queue") ✔️
 7. [Circular doubly linked list](https://github.com/agustinlozano/circular-doubly-linked-list "Circular doubly linked list") ✔️
 8. [Euclidean algorithm](https://github.com/agustinlozano/euclidean-algorithm "Euclidean algorithm") ✔️
+9. [Subasta](https://github.com/agustinlozano/subasta "Subasta") ⚙️
 
 - #### Practices
 1. [Procedural programming](https://github.com/agustinlozano/assembly-practice "Procedural programming")
@@ -55,7 +60,7 @@ Landing pages
 8. [anecdoties redux](https://github.com/agustinlozano/redux-anecdoties "anecdoties redux")
 9. [notes redux](https://github.com/agustinlozano/redux-notes "notes redux")
 10. [Haskell practices](https://github.com/agustinlozano/haskell "Haskell practices") ⚙️
-
+11. [Object-Oriented Design](https://github.com/agustinlozano/haskell "Haskell practices") ⚙️
 ---
 
 ### Contact me
