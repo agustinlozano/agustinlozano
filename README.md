@@ -57,9 +57,9 @@ Server-side applications in JavaScript, RESTfull web APIs, and automation testin
 8. [Euclidean algorithm](https://github.com/agustinlozano/euclidean-algorithm "Euclidean algorithm") ✔️
 9. [Subasta](https://github.com/agustinlozano/subasta "Subasta") ⚙️
 
-### Practices
+### Practises with exercises and projects
 1. [Procedural programming](https://github.com/agustinlozano/assembly-practice "Procedural programming")
-2. [Assembly practices](https://github.com/agustinlozano/assembly-practice "Assembly-practice")
+2. [Learning Assembly](https://github.com/agustinlozano/assembly-practice "Assembly-practice")
 3. [C algorithms](https://github.com/agustinlozano/assembly-practice "C algorithms")
 4. [Gatsby Site](https://github.com/agustinlozano/first-gatsby-site "Gatsby Site")
 5. [js-xmas-edition](https://github.com/agustinlozano/js-xmas-edition "js-xmas-edition")
@@ -67,7 +67,7 @@ Server-side applications in JavaScript, RESTfull web APIs, and automation testin
 7. [unicafe redux](https://github.com/agustinlozano/unicafe-redux "unicafe redux")
 8. [anecdoties redux](https://github.com/agustinlozano/redux-anecdoties "anecdoties redux")
 9. [notes redux](https://github.com/agustinlozano/redux-notes "notes redux")
-10. [Haskell practices](https://github.com/agustinlozano/haskell "Haskell practices") ⚙️
+10. [Learning Haskell](https://github.com/agustinlozano/haskell "Haskell practices") ⚙️
 11. [Object-Oriented Design](https://github.com/agustinlozano/haskell "Haskell practices") ⚙️
 ---
 
