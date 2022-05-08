@@ -68,7 +68,7 @@ Server-side applications in JavaScript, RESTfull web APIs, and automation testin
 8. [anecdoties redux](https://github.com/agustinlozano/redux-anecdoties "anecdoties redux")
 9. [notes redux](https://github.com/agustinlozano/redux-notes "notes redux")
 10. [Learning Haskell](https://github.com/agustinlozano/haskell "Haskell practices") ⚙️
-11. [Object-Oriented Design](https://github.com/agustinlozano/haskell "Haskell practices") ⚙️
+11. [Object-Oriented Design](https://github.com/agustinlozano/DOO "DOO") ⚙️
 ---
 
 ### Contact me
