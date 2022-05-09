@@ -33,7 +33,7 @@ Modern web development, responsive, and automation testing.
 
 Server-side applications in JavaScript, RESTfull web APIs, and automation testing. 
 <br>
-*Express, Jest, Supertest, MongoDB/SQL.*
+*Express, Jest, Supertest, MongoDB/Mongoose, SQL.*
 1. [Phonebook backend](https://github.com/agustinlozano/phonebook-backend "Phonebook backend") ⚙️
 2. [Note app backend](https://github.com/agustinlozano/note-app-backend "Note app backend") ⚙️
 3. [Blog list backend](https://github.com/agustinlozano/blog-list-backend "Blog list backend") ⚙️
