@@ -57,7 +57,7 @@ Server-side applications in JavaScript, RESTfull web APIs, and automation testin
 8. [Euclidean algorithm](https://github.com/agustinlozano/euclidean-algorithm "Euclidean algorithm") ✔️
 9. [Subasta](https://github.com/agustinlozano/subasta "Subasta") ⚙️
 
-### Practises with exercises and projects
+### Practises, exercises, and projects
 1. [Procedural programming](https://github.com/agustinlozano/assembly-practice "Procedural programming")
 2. [Learning Assembly](https://github.com/agustinlozano/assembly-practice "Assembly-practice")
 3. [C algorithms](https://github.com/agustinlozano/assembly-practice "C algorithms")
