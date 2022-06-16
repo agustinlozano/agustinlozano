@@ -26,12 +26,12 @@ Server-side applications in JavaScript, RESTfull web APIs, and automation testin
 
 | **Project**                                                                                    | **Status**|
 | :------------                                                                                  |  :-----:  |
+| [DeskWizard](https://github.com/agustinlozano/DeskWizard "DeskWizard")                      |   ⚙️🔥    |
 | 1. [Phonebook backend](https://github.com/agustinlozano/phonebook-backend "Phonebook backend") |     ✔️    |
 | 2. [Note app backend](https://github.com/agustinlozano/note-app-backend "Note app backend")    |     ✔️    |
 | 3. [Blog list backend](https://github.com/agustinlozano/blog-list-backend "Blog list backend") |     ✔️    |
 | 4. [Typescript API](https://github.com/agustinlozano/typescript-API "Typescript API")          |     ✔️    |
 | 5. [Watches DB](https://github.com/agustinlozano/watches-db "Watches DB")                      |     ⚙️    |
-| 6. [DeskWizard](https://github.com/agustinlozano/DeskWizard "DeskWizard")                      |     ⚙️    |
 
 - **Frontend projects**
 
