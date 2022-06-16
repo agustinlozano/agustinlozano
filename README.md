@@ -72,7 +72,7 @@ Modern web development, responsive, and automation testing.
 | 8. [Assembly MIPS R2000 app](https://github.com/agustinlozano/assembly-app "Assembly MIPS R2000 app")         |    ✔️    |
 | 9. [Subasta](https://github.com/agustinlozano/subasta "Subasta")                                              |    ⚙️    |
 
-### Practises, exercises, and projects
+### Practices, exercises, and projects
 
 | **Project**                                                                                              | **Status**|
 | :------------                                                                                            |  :-----:  |
