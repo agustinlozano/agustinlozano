@@ -89,6 +89,14 @@ Modern web development, responsive, and automation testing.
 
 ---
 
+<a href="https://github.com/agustinlozano">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinlozano&layout=compact" />
+</a>
+
+---
+
+---
+
 ### Contact me
 
 <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
