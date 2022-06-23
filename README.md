@@ -90,7 +90,7 @@ Modern web development, responsive, and automation testing.
 ---
 
 <a href="https://github.com/agustinlozano">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinlozano&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinlozano&layout=compact&theme=dracula" />
 </a>
 
 ---
