@@ -16,7 +16,7 @@ I hope this helps you to surf my GitHub better!
 | 🛑 Stopped/No activity for now
 
 
-Please feel free to clone projects and raise issues if you think something could be better.
+Please feel free to clone projects and raise issues.
 <br>
 <br>
 
