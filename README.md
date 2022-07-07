@@ -31,7 +31,7 @@ Server-side applications in JavaScript, RESTfull web APIs, and automation testin
 | 2. [Note app backend](https://github.com/agustinlozano/note-app-backend "Note app backend")    |     ✔️    |
 | 3. [Blog list backend](https://github.com/agustinlozano/blog-list-backend "Blog list backend") |     ✔️    |
 | 4. [Typescript API](https://github.com/agustinlozano/typescript-API "Typescript API")          |     ✔️    |
-| 5. [Watches DB](https://github.com/agustinlozano/watches-db "Watches DB")                      |     ⚙️    |
+| 5. [Watch DB](https://github.com/agustinlozano/watch-db "Watch DB")                            |     ⚙️    |
 
 - **Frontend projects**
 
@@ -63,7 +63,7 @@ Modern web development, responsive, and automation testing.
 | **Project**                                                                                                  | **Status**|
 | :------------                                                                                                |  :-----:  |
 | 1. [Kruskal C++](https://github.com/agustinlozano/kruskal-doo "Kruskal c++")                                 |    ⚙️    |
-| 2. [Kruskal C](https://github.com/agustinlozano/kruskal "Kruskal")                                             |    ✔️    |
+| 2. [Kruskal C](https://github.com/agustinlozano/kruskal "Kruskal")                                           |    ✔️    |
 | 3. [Binary tree](https://github.com/agustinlozano/binary-tree "Binary tree")                                 |    ✔️    |
 | 4. [Assembly intel x86 + C driver](https://github.com/agustinlozano/driver "Assembly intel x86 + C driver")  |    ✔️    |
 | 5. [Doubly linked list](https://github.com/agustinlozano/doubly-linked-list "Doubly linked list")            |    ✔️    |
@@ -71,7 +71,7 @@ Modern web development, responsive, and automation testing.
 | 7. [Circular queue](https://github.com/agustinlozano/circular-queue "Circular queue")                         |    ✔️    |
 | 8. [Euclidean algorithm](https://github.com/agustinlozano/euclidean-algorithm "Euclidean algorithm")          |    ✔️    |
 | 9. [Assembly MIPS R2000 app](https://github.com/agustinlozano/assembly-app "Assembly MIPS R2000 app")         |    ✔️    |
-| 10. [Subasta](https://github.com/agustinlozano/subasta "Subasta")                                              |    ⚙️    |
+| 10. [Subasta](https://github.com/agustinlozano/subasta "Subasta")                                             |    ✔️    |
 
 ### Practices, exercises, and projects
 
