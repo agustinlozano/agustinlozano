@@ -14,6 +14,9 @@ I hope this helps you to surf my GitHub better!
  ⚙️ Still working
 | ✔️ Done
 | 🛑 Stopped/No activity for now
+
+
+Please feel free to clone projects and raise issues if you think something could be better.
 <br>
 <br>
 
