@@ -65,16 +65,17 @@ Modern web development, responsive, and automation testing.
 
 | **Project**                                                                                                  | **Status**|
 | :------------                                                                                                |  :-----:  |
-| 1. [Kruskal C++](https://github.com/agustinlozano/kruskal-doo "Kruskal c++")                                 |    ⚙️    |
-| 2. [Kruskal C](https://github.com/agustinlozano/kruskal "Kruskal")                                           |    ✔️    |
-| 3. [Binary tree](https://github.com/agustinlozano/binary-tree "Binary tree")                                 |    ✔️    |
-| 4. [Assembly intel x86 + C driver](https://github.com/agustinlozano/driver "Assembly intel x86 + C driver")  |    ✔️    |
-| 5. [Doubly linked list](https://github.com/agustinlozano/doubly-linked-list "Doubly linked list")            |    ✔️    |
-| 6. [Circular doubly linked list](https://github.com/agustinlozano/circular-doubly-linked-list "Circular doubly linked list") |    ✔️    |
-| 7. [Circular queue](https://github.com/agustinlozano/circular-queue "Circular queue")                         |    ✔️    |
-| 8. [Euclidean algorithm](https://github.com/agustinlozano/euclidean-algorithm "Euclidean algorithm")          |    ✔️    |
-| 9. [Assembly MIPS R2000 app](https://github.com/agustinlozano/assembly-app "Assembly MIPS R2000 app")         |    ✔️    |
-| 10. [Subasta](https://github.com/agustinlozano/subasta "Subasta")                                             |    ✔️    |
+| 1. [Cache Manager c++](https://github.com/agustinlozano/cache-manager "Cache Manager C++")                   |    ⚙️    |
+| 2. [Kruskal C++](https://github.com/agustinlozano/kruskal-doo "Kruskal c++")                                 |    ⚙️    |
+| 3. [Kruskal C](https://github.com/agustinlozano/kruskal "Kruskal")                                           |    ✔️    |
+| 4. [Binary tree](https://github.com/agustinlozano/binary-tree "Binary tree")                                 |    ✔️    |
+| 5. [Assembly intel x86 + C driver](https://github.com/agustinlozano/driver "Assembly intel x86 + C driver")  |    ✔️    |
+| 6. [Doubly linked list](https://github.com/agustinlozano/doubly-linked-list "Doubly linked list")            |    ✔️    |
+| 7. [Circular doubly linked list](https://github.com/agustinlozano/circular-doubly-linked-list "Circular doubly linked list") |    ✔️    |
+| 8. [Circular queue](https://github.com/agustinlozano/circular-queue "Circular queue")                         |    ✔️    |
+| 9. [Euclidean algorithm](https://github.com/agustinlozano/euclidean-algorithm "Euclidean algorithm")          |    ✔️    |
+| 10. [Assembly MIPS R2000 app](https://github.com/agustinlozano/assembly-app "Assembly MIPS R2000 app")        |    ✔️    |
+| 11. [Subasta](https://github.com/agustinlozano/subasta "Subasta")                                             |    ✔️    |
 
 ### Practices, exercises, and projects
 
