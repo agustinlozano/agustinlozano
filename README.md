@@ -65,7 +65,7 @@ Modern web development, responsive, and automation testing.
 
 | **Project**                                                                                                  | **Status**|
 | :------------                                                                                                |  :-----:  |
-| 1. [Cache Manager c++](https://github.com/agustinlozano/cache-manager "Cache Manager C++")                   |    ⚙️    |
+| 1. [Cache Manager C++](https://github.com/agustinlozano/cache-manager "Cache Manager C++")                   |    ⚙️    |
 | 2. [Kruskal C++](https://github.com/agustinlozano/kruskal-doo "Kruskal C++")                                 |    ⚙️    |
 | 3. [Kruskal C](https://github.com/agustinlozano/kruskal "Kruskal")                                           |    ✔️    |
 | 4. [Binary tree](https://github.com/agustinlozano/binary-tree "Binary tree")                                 |    ✔️    |
