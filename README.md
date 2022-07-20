@@ -25,7 +25,7 @@ Please feel free to clone projects and raise issues.
 
 Server-side applications in JavaScript, RESTfull web APIs, automation testing, and CI/CD.
 <br>
-*Express, MongoDB/Mongoose, SQL, Supertest, Jest.*
+*Express, MongoDB/Mongoose, SQL, Supertest, Jest, cloud services.*
 
 | **Project**                                                                                    | **Status**|
 | :------------                                                                                  |  :-----:  |
@@ -40,7 +40,7 @@ Server-side applications in JavaScript, RESTfull web APIs, automation testing, a
 
 Modern web development, responsive, and automation testing. 
 <br>
-*JavaScript, React, Redux/Redux toolkit, Jest, Cypress, Testing React Library, Axios, CSS, HTML.*
+*JavaScript, React, Redux/Redux toolkit, Cypress, Testing React Library, Axios, CSS, HTML.*
 
 | **Project**                                                                             | **Status**|
 | :------------                                                                           |  :-----:  |
