@@ -23,9 +23,9 @@ Please feel free to clone projects and raise issues.
 ### Web development work
 - **Backend projects**
 
-Server-side applications in JavaScript, RESTfull web APIs, and automation testing.
+Server-side applications in JavaScript, RESTfull web APIs, automation testing, and CI/CD.
 <br>
-*Express, Jest, Supertest, MongoDB/Mongoose, SQL.*
+*Express, MongoDB/Mongoose, SQL, Supertest, Jest.*
 
 | **Project**                                                                                    | **Status**|
 | :------------                                                                                  |  :-----:  |
@@ -40,7 +40,7 @@ Server-side applications in JavaScript, RESTfull web APIs, and automation testin
 
 Modern web development, responsive, and automation testing. 
 <br>
-*JavaScript, React, flux-architecture/Redux, Jest, Cypress, Testing React Library, Axios, CSS/CSS frameworks with classes, HTML.*
+*JavaScript, React, Redux/Redux toolkit, Jest, Cypress, Testing React Library, Axios, CSS, HTML.*
 
 | **Project**                                                                             | **Status**|
 | :------------                                                                           |  :-----:  |
