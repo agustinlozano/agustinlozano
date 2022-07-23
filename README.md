@@ -29,7 +29,7 @@ Server-side applications in JavaScript, RESTfull web APIs, automation testing, a
 
 | **Project**                                                                                    | **Status**|
 | :------------                                                                                  |  :-----:  |
-| [DeskWizard](https://github.com/agustinlozano/DeskWizard "DeskWizard")                      |   ⚙️🔥    |
+| [DeskWizard](https://github.com/agustinlozano/DeskWizard "DeskWizard")                         |    ⚙️🔥   |
 | 1. [Phonebook backend](https://github.com/agustinlozano/phonebook-backend "Phonebook backend") |     ✔️    |
 | 2. [Note app backend](https://github.com/agustinlozano/note-app-backend "Note app backend")    |     ✔️    |
 | 3. [Blog list backend](https://github.com/agustinlozano/blog-list-backend "Blog list backend") |     ✔️    |
@@ -44,6 +44,7 @@ Modern web development, responsive, and automation testing.
 
 | **Project**                                                                             | **Status**|
 | :------------                                                                           |  :-----:  |
+| [Portfolio](https://github.com/agustinlozano/portfolio "Portfolio")                     |    ⚙️🔥  |
 | 1. [Phonebook app](https://github.com/agustinlozano/phonebook "Phonebook app")          |    ⚙️    |
 | 2. [Notes app](https://github.com/agustinlozano/notes-app "Notes app")                  |    ⚙️    |
 | 3. [Wizard's blogs](https://github.com/agustinlozano/wizards-blog "Wizard's blogs")     |    ⚙️    |
