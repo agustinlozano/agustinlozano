@@ -46,11 +46,12 @@ Modern web development, responsive, and automation testing.
 | :------------                                                                           |  :-----:  |
 | [Portfolio](https://github.com/agustinlozano/portfolio "Portfolio")                     |    ⚙️🔥  |
 | 1. [WizardChat](https://github.com/agustinlozano/WizardChat "WizardChat")               |    ⚙️    |
-| 2. [Phonebook app](https://github.com/agustinlozano/phonebook "Phonebook app")          |    🛑    |
-| 3. [Notes app](https://github.com/agustinlozano/notes-app "Notes app")                  |    🛑    |
-| 4. [simple project](https://github.com/agustinlozano/front-end-projec "simple project") |    ✔️    |
-| 5. [Simon says](https://github.com/agustinlozano/simon-dice "Simon says")               |    🛑    |
-| 6. [Memotest](https://github.com/agustinlozano/memotest "Memotest")                     |    🛑    |
+| 2. [DeskWizard app](https://github.com/agustinlozano/DeskWizard/tree/master/frontend "DeskWizard app")        |    ⚙️    |
+| 3. [Phonebook app](https://github.com/agustinlozano/phonebook "Phonebook app")          |    🛑    |
+| 4. [Notes app](https://github.com/agustinlozano/notes-app "Notes app")                  |    🛑    |
+| 5. [simple project](https://github.com/agustinlozano/front-end-projec "simple project") |    ✔️    |
+| 6. [Simon says](https://github.com/agustinlozano/simon-dice "Simon says")               |    🛑    |
+| 7. [Memotest](https://github.com/agustinlozano/memotest "Memotest")                     |    🛑    |
 
 - **Landing pages**
 
