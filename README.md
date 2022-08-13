@@ -29,12 +29,12 @@ Server-side applications in JavaScript, RESTfull web APIs, automation testing, a
 
 | **Project**                                                                                    | **Status**|
 | :------------                                                                                  |  :-----:  |
-| [DeskWizard](https://github.com/agustinlozano/DeskWizard "DeskWizard")                         |    ⚙️🔥   |
-| 1. [Phonebook backend](https://github.com/agustinlozano/phonebook-backend "Phonebook backend") |     ✔️    |
-| 2. [Note app backend](https://github.com/agustinlozano/note-app-backend "Note app backend")    |     ✔️    |
-| 3. [Blog list backend](https://github.com/agustinlozano/blog-list-backend "Blog list backend") |     ✔️    |
-| 4. [Typescript API](https://github.com/agustinlozano/typescript-API "Typescript API")          |     ✔️    |
-| 5. [Watch DB](https://github.com/agustinlozano/watch-db "Watch DB")                            |     ⚙️    |
+| 1. [DeskWizard](https://github.com/agustinlozano/DeskWizard "DeskWizard")                         |    ⚙️🔥   |
+| 2. [Phonebook backend](https://github.com/agustinlozano/phonebook-backend "Phonebook backend") |     ✔️    |
+| 3. [Note app backend](https://github.com/agustinlozano/note-app-backend "Note app backend")    |     ✔️    |
+| 4. [Blog list backend](https://github.com/agustinlozano/blog-list-backend "Blog list backend") |     ✔️    |
+| 5. [Typescript API](https://github.com/agustinlozano/typescript-API "Typescript API")          |     ✔️    |
+| 6. [Watch DB](https://github.com/agustinlozano/watch-db "Watch DB")                            |     ✔️    |
 
 - **Frontend projects**
 
@@ -44,14 +44,12 @@ Modern web development, responsive, and automation testing.
 
 | **Project**                                                                             | **Status**|
 | :------------                                                                           |  :-----:  |
-| [Portfolio](https://github.com/agustinlozano/portfolio "Portfolio")                     |    ⚙️🔥  |
-| 1. [WizardChat](https://github.com/agustinlozano/WizardChat "WizardChat")               |    ⚙️    |
-| 2. [DeskWizard app](https://github.com/agustinlozano/DeskWizard/tree/master/frontend "DeskWizard app")        |    ⚙️    |
-| 3. [Phonebook app](https://github.com/agustinlozano/phonebook "Phonebook app")          |    🛑    |
-| 4. [Notes app](https://github.com/agustinlozano/notes-app "Notes app")                  |    🛑    |
-| 5. [simple project](https://github.com/agustinlozano/front-end-projec "simple project") |    ✔️    |
-| 6. [Simon says](https://github.com/agustinlozano/simon-dice "Simon says")               |    🛑    |
-| 7. [Memotest](https://github.com/agustinlozano/memotest "Memotest")                     |    🛑    |
+| 1. [Wizoft](https://github.com/agustinlozano/portfolio "Portfolio")                     |    ⚙️🔥  |
+| 2. [WizardChat](https://github.com/agustinlozano/WizardChat "WizardChat")               |    ⚙️🔥  |
+| 3. [DeskWizard app](https://github.com/agustinlozano/DeskWizard/tree/master/frontend "DeskWizard app")        |    ⚙️    |
+| 4. [Phonebook app](https://github.com/agustinlozano/phonebook "Phonebook app")          |    🛑    |
+| 5. [Notes app](https://github.com/agustinlozano/notes-app "Notes app")                  |    🛑    |
+| 6. [simple project](https://github.com/agustinlozano/front-end-projec "simple project") |    ✔️    |
 
 - **Landing pages**
 
