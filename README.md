@@ -81,7 +81,7 @@ Modern web development, responsive, and automation testing.
 
 | **Project**                                                                                              | **Status**|
 | :------------                                                                                            |  :-----:  |
-| 1. [Object-Oriented Design](https://github.com/agustinlozano/DOO "DOO")                                  |    ⚙️     |
+| 1. [Object-Oriented Design](https://github.com/agustinlozano/DOO "DOO")                                  |           |
 | 2. [Learning Assembly](https://github.com/agustinlozano/assembly-practice "Assembly-practice")           |           |
 | 3. [C algorithms](https://github.com/agustinlozano/C-algorithms "C algorithms")                          |           |
 | 4. [Gatsby Site](https://github.com/agustinlozano/first-gatsby-site "Gatsby Site")                       |           |
