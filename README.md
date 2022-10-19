@@ -1,6 +1,6 @@
 <h1> Hello there, fellow coders! 👩🏼‍💻👨🏻‍💻</h1> <!-- <img src="src/one-ring.png"> -->
 
-**Software Engineer Trainee** & **FullStack Dev**. 💻
+**Software Engineer Jr.** & **FullStack Dev**. 💻
 
 I'm studying the systems field at the National University of Rosario and learning about different subjects of software engineering by myself. The academic work is primarily concerned with software systems and computing. Also, I became interested in web development since I believe it's a good ecosystem where I can improve my professional career.
 
