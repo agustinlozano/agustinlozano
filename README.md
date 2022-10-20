@@ -6,6 +6,7 @@ I'm studying the systems field at the National University of Rosario and learnin
 
 My goal is to work in innovative technological environments to serve and give advice to my clients and provide excellent values according to the company's culture.
 
+<a href="https://www.linkedin.com/in/agustinlzn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 ---
 
 ### Summary
@@ -96,9 +97,3 @@ Modern web development, responsive, and automation testing.
 <a href="https://github.com/agustinlozano">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinlozano&layout=compact&theme=dracula" />
 </a>
-
----
-
-### Contact me
-
-<a href="https://www.linkedin.com/in/agustinlzn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
