@@ -2,7 +2,7 @@
 
 **Software Engineer Jr.** & **FullStack Dev**. 💻
 
-I'm studying the systems field at the National University of Rosario and learning about different subjects of software engineering by myself. The academic work is primarily concerned with software systems and computing. Also, I became interested in web development since I believe it's a good ecosystem where I can improve my professional career.
++1 year experience as a frontend developer with a background in building, testing, and maintaining web-based applications. Able to provide the company with problem-solving abilities, understanding of web performance, strong communication skills and leadership, agile development, and familiarity with software engineering and computing fundamentals. Self-motivated and hard-working individual, a team player, and a passionate learner.
 
 My goal is to work in innovative technological environments to serve and give advice to my clients and provide excellent values according to the company's culture.
 
