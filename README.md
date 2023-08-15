@@ -6,16 +6,21 @@
 
 I'm keen on working within innovative tech setups, contributing values that align seamlessly with the company's culture.
 
-• Frontend service & skills
+• **Frontend service & skills**
+
 Modern web development, responsive web design, and testing.
-React.js, Astro, Zustand/Redux/Redux toolkit, Three.js, IFC.js, Cypress, CSS, HTML.
+_React.js, Astro, Zustand/Redux/Redux toolkit, Three.js, IFC.js, Cypress, CSS, HTML._
 
-• Backend service & skills
+
+• **Backend service & skills**
+
 Server-side applications in JavaScript, RESTful web APIs, database design, testing, and CI/CD.
-Express, MongoDB, SQL, Mongoose, Jest.
+_Express, MongoDB, SQL, Mongoose, Jest._
 
-• Other skills
-Typescript, Docker, Git. Actively learning English.
+
+• **Other skills**
+
+_Typescript, Docker, Git_. Actively learning English.
 
 <a href="https://www.linkedin.com/in/agustinlzn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 ---
