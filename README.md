@@ -24,7 +24,3 @@ _Typescript, Docker, Git_. Actively learning English.
 
 <a href="https://www.linkedin.com/in/agustinlzn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 ---
-
-<a href="https://github.com/agustinlozano">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinlozano&layout=compact&theme=dracula" />
-</a>
