@@ -2,14 +2,14 @@
 
 **Software Engineer Jr.** & **FullStack Dev**. 💻
 
-2+ years experience as a frontend developer with a background in building, testing, and maintaining web-based applications. Able to provide the company with problem-solving abilities, understanding of web performance, strong communication skills, and agile development. Hard-working individual, a team player, ongoing learning.
+2+ years experience as a front-end developer with a background in building, testing, and maintaining web-based applications. Able to provide the company with problem-solving abilities, understanding of web performance, strong communication skills, and agile development. Hard-working individual, a team player, ongoing learning.
 
 I'm keen on working in innovative tech setups, contributing values that align seamlessly with the company's culture.
 
 • **Frontend service & skills**
 
 Modern web development, responsive web design, and testing.
-_React.js, Astro, Zustand/Redux/Redux toolkit, Three.js, IFC.js, Cypress, CSS, HTML._
+_React.js, Astro, Zustand/Redux, Three.js, IFC.js, Cypress, CSS, HTML._
 
 
 • **Backend service & skills**
