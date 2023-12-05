@@ -9,7 +9,7 @@ I'm keen on working in innovative tech setups, contributing values that align se
 • **Frontend service & skills**
 
 Modern web development, responsive web design, and testing.
-_JavaScript, React.js, Astro, Three.js, CSS, HTML._
+_JavaScript, React.js, Next.js, Astro, Three.js, CSS, HTML._
 
 
 • **Backend service & skills**
