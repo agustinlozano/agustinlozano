@@ -24,5 +24,7 @@ _Node.js, Supabase, MongoDB, SQL._
 
 _Typescript, Docker, CI/CD, Git_. Actively learning English.
 
+<a href="https://gustn.co" target="_blank">
+  <img alt="Gustn.co" src="https://img.shields.io/badge/cv-gustn.co-blue">
+</a>
 <a href="https://www.linkedin.com/in/agustinlzn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
----
