@@ -1,5 +1,3 @@
-## Hi there!
-
 **Software Engineer** & **Full-Stack Dev**. 💻
 
 2+ years experience as a frontend developer with a background in building, testing, and maintaining web-based applications. Able to provide the company with problem-solving abilities, understanding of web performance, strong communication skills, and agile development. Hard-working individual, a team player, ongoing learning.
