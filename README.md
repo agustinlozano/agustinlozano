@@ -17,6 +17,11 @@ Server-side programming in JavaScript, RESTful web APIs, database design, testin
 
 _Node.js, Supabase, MongoDB, SQL._
 
+• **AI Stack**
+- Cursor as IDE
+- Claude sonnet coding & MCPs
+- Grok research & planning
+- V0 UI
 
 • **Other skills**
 
