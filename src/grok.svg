@@ -3,7 +3,6 @@
     width="30"
     height="33"
     fill="none"
-    class="opacity-80 hover:opacity-100 fill-black dark:fill-white [&amp;&gt;path]:hidden sm:[&amp;&gt;path]:block [&amp;&gt;#mark]:block [&amp;&gt;#furigana]:opacity-60"
     viewBox="0 0 30 33"
   >
     <path
