@@ -1,6 +1,6 @@
 **Software Engineer** & **Frontend Dev.**
 
-2+ years experience as a frontend developer with a background in building, testing, and maintaining web-based applications. Problem-solving abilities, understanding of web performance, strong communication skills, and agile development.
+3+ years experience as a frontend developer with a background in building, testing, and maintaining web-based applications. Problem-solving abilities, understanding of web performance, strong communication skills, and agile development.
 
 I'm eager to work in innovative tech environments that fit the company culture.
 
