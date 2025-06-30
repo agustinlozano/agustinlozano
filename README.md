@@ -2,8 +2,6 @@
 
 3+ years of experience as a frontend developer with a background in building, testing, and maintaining web-based applications. Problem-solving abilities, understanding of web performance, and strong communication skills.
 
-I'm eager to work in innovative tech environments that fit the company culture.
-
 • **AI Stack**
 - <img src="src/cursor-opt.webp" width="14px" alt="Cursor.ai" /> Cursor + MCPs
 - <img src="src/claude.svg" width="14px" alt="Claude.ai" /> Claude sonnet for coding
