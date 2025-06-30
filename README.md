@@ -19,18 +19,18 @@ Modern web development, responsive web design, and testing.
 
 • **Backend service & skills**
 
-Server-side programming in JavaScript, RESTful web APIs, database design, testing, and CI/CD.
+Server-side programming in TypeScript, RESTful web APIs, database design, testing, and CI/CD.
 
-> _Node.js, Supabase, MongoDB, SQL._
+> _Node.js, Supabase, SQL, NoSQL._
 
-• Cloud & infra
+• **Cloud & infra**
 
 Experience deploying and scaling apps using
 > _Serverless, Lambda, S3, DynamoDB, EC2._
 
 • **Other skills**
 
-> _Typescript, Docker, CI/CD, Git_. Actively learning English.
+> Docker, CI/CD, Git_. Actively learning English.
 
 <!--
 <a href="https://cv.gustn.co" target="_blank">
