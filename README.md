@@ -23,6 +23,11 @@ Server-side programming in JavaScript, RESTful web APIs, database design, testin
 
 > _Node.js, Supabase, MongoDB, SQL._
 
+• Cloud & infra
+
+Experience deploying and scaling apps using
+> _Serverless, Lambda, S3, DynamoDB, EC2._
+
 • **Other skills**
 
 > _Typescript, Docker, CI/CD, Git_. Actively learning English.
