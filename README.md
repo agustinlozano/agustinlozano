@@ -4,33 +4,29 @@
 
 • **AI Stack**
 - <img src="src/cursor-opt.webp" width="14px" alt="Cursor.ai" /> Cursor + MCPs
-- <img src="src/claude.svg" width="14px" alt="Claude.ai" /> Claude sonnet for coding
+- <img src="src/claude.svg" width="14px" alt="Claude.ai" /> Claude for coding
 - <img src="src/openai.svg" width="14px" alt="OpenAI" /> GPT + <img src="src/grok.svg" width="13px" alt="Grok.ai" /> Grok research & planning
 - ▲ AI SDK TypeScript toolkit
 - ▲ V0 UI
 
 
-• **Frontend service & skills**
+• **Frontend**
 
 Modern web development, responsive web design, and testing.
 
 > _JavaScript, React.js, Next.js, Astro, Three.js, CSS, HTML._
 
 
-• **Backend service & skills**
+• **Backend**
 
-Server-side programming in TypeScript, RESTful web APIs, database design, testing, and CI/CD.
+Server-side programming in TypeScript, RESTful APIs, database design.
 
 > _Node.js, Supabase, SQL, NoSQL._
 
 • **Cloud & infra**
 
-Experience deploying and scaling apps using
-> _Serverless, Lambda, S3, DynamoDB, EC2._
-
-• **Other skills**
-
-> Docker, CI/CD, Git_. Actively learning English.
+Experience deploying and scaling apps.
+> _AWS, Serverless, Lambda, S3, DynamoDB, EC2. Vercel._
 
 <!--
 <a href="https://cv.gustn.co" target="_blank">
