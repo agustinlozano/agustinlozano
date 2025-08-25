@@ -18,7 +18,7 @@ Modern web development, responsive web design, and testing.
 
 • **Backend**
 
-Server-side programming in TypeScript, RESTful APIs, database designig.
+Server-side programming in TypeScript, microservices, RESTful APIs, database designig.
 
 > _Node.js, Supabase, SQL, NoSQL._
 
