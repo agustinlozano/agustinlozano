@@ -1,12 +1,10 @@
-**Software Engineer** & **Frontend Dev.**
+**Software Engineer** & **Full-Stack Dev.**
 
-3+ years of experience as a frontend developer with a background in building, testing, and maintaining web-based applications. Problem-solving abilities, understanding of web performance, and strong communication skills.
+3+ years of experience with a background in building, testing, and maintaining web-based applications. Problem-solving abilities, understanding of web performance, and strong communication skills.
 
 • **AI Stack**
 - Cursor + Claude for coding
-- GPT + Grok research & planning
 - ▲ AI SDK TypeScript toolkit
-- ▲ V0 UI
 
 
 • **Frontend**
@@ -18,7 +16,7 @@ Modern web development, responsive web design, and testing.
 
 • **Backend**
 
-Server-side programming in TypeScript, microservices, RESTful APIs, database designig.
+Server-side programming in TypeScript, microservices, RESTful APIs, and database designig.
 
 > _Node.js, Supabase, SQL, NoSQL._
 
