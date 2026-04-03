@@ -1,31 +1,34 @@
 **Software Engineer** & **Full-Stack Dev.**
 
-3+ years of experience with a background in building, testing, and maintaining web-based applications.
+3+ years of experience as a Software Developer specialized in building, testing, and maintaining scalable web applications.
 
 ---
 
 • **AI Stack**
-- Cursor + Claude for coding
-- ▲ AI SDK TypeScript toolkit
+
+AI-driven workflows and integration of LLMs.
+
+Cursor, Claude Code, ▲ AI SDK
 
 
 • **Frontend**
 
-Modern web development, responsive web design, and testing.
+Modern web development, responsive design, and performance-driven UI.
 
-> _JavaScript, React.js, Next.js, Astro, Three.js, CSS, HTML._
+> _JavaScript (ES6+), React.js, Next.js, Three.js, CSS3, HTML5._
 
 
 • **Backend**
 
-Server-side programming in TypeScript, microservices, RESTful APIs, and database designig.
+Scalable server-side programming, microservices, and RESTful API design.
 
-> _Node.js, Supabase, SQL, NoSQL._
+> _Node.js, TypeScript, Supabase, SQL, NoSQL._
 
 • **Cloud & infra**
 
-Experience deploying and scaling apps.
-> _AWS Lambda, Serverless, AWS API Gateway, S3, DynamoDB, ECR, CloudBridge, EC2. Vercel._
+Experience deploying and scaling cloud-native applications.
+
+> _AWS (Lambda, S3, DynamoDB, ECR, EventBridge, EC2), Serverless Framework, Vercel._
 
 <!--
 <a href="https://cv.gustn.co" target="_blank">
