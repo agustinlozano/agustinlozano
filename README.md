@@ -1,6 +1,9 @@
 **Software Engineer** & **Full-Stack Dev.**
 
 3+ years of experience with a background in building, testing, and maintaining web-based applications.
+
+---
+
 • **AI Stack**
 - Cursor + Claude for coding
 - ▲ AI SDK TypeScript toolkit
