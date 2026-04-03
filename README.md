@@ -1,7 +1,6 @@
 **Software Engineer** & **Full-Stack Dev.**
 
-3+ years of experience with a background in building, testing, and maintaining web-based applications. Problem-solving abilities, understanding of web performance, and strong communication skills.
-
+3+ years of experience with a background in building, testing, and maintaining web-based applications.
 • **AI Stack**
 - Cursor + Claude for coding
 - ▲ AI SDK TypeScript toolkit
