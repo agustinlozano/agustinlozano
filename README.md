@@ -4,13 +4,6 @@
 
 ---
 
-• **AI Stack**
-
-AI-driven workflows and integration of LLMs.
-
-Cursor, Claude Code, ▲ AI SDK
-
-
 • **Frontend**
 
 Modern web development, responsive design, and performance-driven UI.
@@ -29,6 +22,12 @@ Scalable server-side programming, microservices, and RESTful API design.
 Experience deploying and scaling cloud-native applications.
 
 > _AWS (Lambda, S3, DynamoDB, ECR, EventBridge, EC2), Serverless Framework, Vercel._
+
+• **AI Stack**
+
+AI-driven workflows and integration of LLMs.
+
+> Cursor, Claude Code, ▲ AI SDK
 
 <!--
 <a href="https://cv.gustn.co" target="_blank">
