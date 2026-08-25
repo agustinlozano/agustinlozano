@@ -25,9 +25,7 @@ Experience deploying and scaling cloud-native applications.
 
 • **AI Stack**
 
-AI-driven workflows and integration of LLMs.
-
-> Cursor, Claude Code, ▲ AI SDK
+AI-driven workflows and integrations.
 
 <!--
 <a href="https://cv.gustn.co" target="_blank">
