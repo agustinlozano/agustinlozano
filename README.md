@@ -1,6 +1,6 @@
 **Software Engineer** & **Full-Stack Dev.**
 
-3+ years of experience as a Software Developer specialized in building, testing, and maintaining scalable web applications.
+4+ years of experience as a Software Developer specialized in building, testing, and maintaining scalable web applications.
 
 ---
 
